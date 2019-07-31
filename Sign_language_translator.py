@@ -19,7 +19,7 @@ params = urllib.parse.urlencode({
     'application': 'hand\'s signe'
 })
 
-file_path = "C:/Users/Raghad/Desktop/AEC/D/custom-vision/Hello.mp4"
+file_path = "<put your video file_path>"
 
 def video_length(filePath):
     clip = VideoFileClip(filePath)
