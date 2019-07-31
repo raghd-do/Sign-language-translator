@@ -57,14 +57,3 @@ while(cap.isOpened):
     if cv2.waitKey(1) == ord('q'):
         break
 cap.release()
-
-#try:
-#    conn = http.client.HTTPSConnection('eastus.api.cognitive.microsoft.com')
-#    conn.request("POST", "https://eastus.api.cognitive.microsoft.com/customvision/v3.0/Prediction/46f2b819-45a2-47ee-93fc-f165fb611af1/classify/iterations/signs/image?%s"
-#        % params, image, headers)
-#    response = conn.getresponse()
-#    data = response.read()
-#    print(data)
-#    conn.close()
-#except Exception as e:
-#    print("[Errno {0}] {1}".format(e.errno, e.strerror))
