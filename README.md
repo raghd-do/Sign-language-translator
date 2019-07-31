@@ -66,3 +66,4 @@ Please read [CONTRIBUTING.md](https://github.com/self-speech/Amirican-sign-langu
 ## Acknowledgments
 
 * Advanced Electronics Company
+* Engineer.Abdulaziz AlSadhan
