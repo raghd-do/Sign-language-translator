@@ -42,8 +42,8 @@ while(cap.isOpened):
     if frames < video_length(file_path):
         if round(frames,1) == round(seconds,1):
             try:
-                conn = http.client.HTTPSConnection('eastus.api.cognitive.microsoft.com')
-                conn.request("POST", "https://eastus.api.cognitive.microsoft.com/customvision/v3.0/Prediction/46f2b819-45a2-47ee-93fc-f165fb611af1/classify/iterations/signs/image?%s"
+                conn = http.client.HTTPSConnection('eastus.api.cognitive.microsoft.com') # use your endpoint here as this example
+                conn.request("POST", "https://eastus.api.cognitive.microsoft.com/customvision/v3.0/Prediction/<enter your project id>/classify/iterations/<enter your iteratin name>/image?%s"
                     % params, image, headers)
                     response = conn.getresponse()
                     data = response.read()
