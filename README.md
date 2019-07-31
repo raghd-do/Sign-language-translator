@@ -52,12 +52,12 @@ once you done, go and translate a sign language to enrich your service by taggin
 ## Built With
 
 * [Anaconda](https://www.anaconda.com/distribution/) - The World's Most Popular Python/R Data Science Platform
-* [Atom](https://maven.apache.org/) - A hackable text editor built by GitHub
+* [Atom](https://atom.io/) - A hackable text editor built by GitHub
 * [OpenCV](https://opencv.org/) - Open Source Computer Vision Library
 
 ## Contributing
 
-Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/self-speech/Amirican-sign-language-translator-ASL/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
