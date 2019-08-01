@@ -1,4 +1,4 @@
-# American Sign language translator (ASL-translator)
+# Sign language translator
 
 this project will help normal people to understand deaf people
 by taking a video file or video from webcam and translate the hand's sign in it.
