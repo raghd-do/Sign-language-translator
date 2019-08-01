@@ -1,4 +1,4 @@
-# American Sign language translator (ASL-translator)
+# Sign language translator
 
 this project will help normal people to understand deaf people
 by taking a video file or video from webcam and translate the hand's sign in it.
@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your com
 https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/
 ```
 
-2) Python version 3 or earlier.
+2) Python version 3 or later.
 ```
 https://www.python.org/
 ```
@@ -67,3 +67,5 @@ Please read [CONTRIBUTING.md](https://github.com/self-speech/Amirican-sign-langu
 
 * Advanced Electronics Company
 * Engineer.Abdulaziz AlSadhan
+* Engineer.Mohammad AlJabr
+* Dev.Hessa AlZamel
