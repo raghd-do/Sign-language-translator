@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your com
 https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/
 ```
 
-2) Python version 3 or earlier.
+2) Python version 3 or later.
 ```
 https://www.python.org/
 ```
